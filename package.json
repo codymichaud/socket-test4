@@ -2,7 +2,7 @@
   "name": "socket-test4",
   "version": "1.0.0",
   "engines": {
-    "node": "14.15.5"
+    "node": "12.x"
   },
   "description": "",
   "main": "server.js",

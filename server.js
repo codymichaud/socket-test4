@@ -1,7 +1,9 @@
+'use strict';
+
 const express = require('express');
 const socketIO = require('socket.io');
 
-const PORT = process.env.port || 8240;
+const PORT = process.env.port || 3000;
 const INDEX = '/index.html';
 
 const server = express()
